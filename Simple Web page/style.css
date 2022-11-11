@@ -22,7 +22,7 @@ h1 {
 h1 span {
   border: 8px solid #666666;
   border-radius: 8px;
-  background-image: url("https://media.giphy.com/media/3o84U78CXEB2opZd4I/giphy.gif");
+  background-image: url("https://i.giphy.com/media/3o84U78CXEB2opZd4I/giphy.webp");
   padding: 12px;
 }
 
@@ -45,7 +45,7 @@ p {
 }
 
 #header {
-  background-image: url("https://media.giphy.com/media/3o84U78CXEB2opZd4I/giphy.gif");
+  background-image: url("https://i.giphy.com/media/3o84U78CXEB2opZd4I/giphy.webp");
   background-size: cover;
 }
 
